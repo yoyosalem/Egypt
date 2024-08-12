@@ -1,0 +1,58 @@
+body {
+    background-color:peachpuff;
+    font-family: "Helvetica", sans-serif;
+  }
+  h1 {
+    color: white;
+    font-family: "Times New Roman", serif;
+  }
+  h2 {
+    font-family: "Times New Roman", serif;
+  }
+  h3 {
+    font-style: italic;
+  }
+  a {
+    color: slateblue;
+  }
+  
+  nav ul {
+    background-color: sandybrown;
+    border-style: solid;
+    border-color: seashell;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: olive;
+  }
+  
+  table, th, td {
+    border: 1px solid HoneyDew;
+    border-collapse: collapse;
+  }
+  tr {
+    background-color: palegoldenrod;
+  }
+  th, td {
+    vertical-align: top;
+    padding: 5px;
+    text-align: left;
+  }
+  th {
+    color: yellow;
+  }
+  td {
+    color: yellow;
+} 
+
+section { border-top-style: solid; border-top-width: 2px; border-top-color: #F5FFFA; padding-bottom: 10px; } article { border-radius: 10px; background-color: #85E0E0; padding: 10px; } /* CSS Classes */ .purplebackground { background-color: #ccb3ff; } .darkerbackground { background-color: #aa80ff; } .sectionspacing { padding: 10px; margin-top: 20px; }
